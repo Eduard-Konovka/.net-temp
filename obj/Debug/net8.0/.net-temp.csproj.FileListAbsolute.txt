@@ -1,0 +1,14 @@
+D:\GitHub\.net-temp\bin\Debug\net8.0\.net-temp.exe
+D:\GitHub\.net-temp\bin\Debug\net8.0\.net-temp.deps.json
+D:\GitHub\.net-temp\bin\Debug\net8.0\.net-temp.runtimeconfig.json
+D:\GitHub\.net-temp\bin\Debug\net8.0\.net-temp.dll
+D:\GitHub\.net-temp\bin\Debug\net8.0\.net-temp.pdb
+D:\GitHub\.net-temp\obj\Debug\net8.0\.net-temp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\.net-temp\obj\Debug\net8.0\.net-temp.AssemblyInfoInputs.cache
+D:\GitHub\.net-temp\obj\Debug\net8.0\.net-temp.AssemblyInfo.cs
+D:\GitHub\.net-temp\obj\Debug\net8.0\.net-temp.csproj.CoreCompileInputs.cache
+D:\GitHub\.net-temp\obj\Debug\net8.0\.net-temp.dll
+D:\GitHub\.net-temp\obj\Debug\net8.0\refint\.net-temp.dll
+D:\GitHub\.net-temp\obj\Debug\net8.0\.net-temp.pdb
+D:\GitHub\.net-temp\obj\Debug\net8.0\.net-temp.genruntimeconfig.cache
+D:\GitHub\.net-temp\obj\Debug\net8.0\ref\.net-temp.dll
