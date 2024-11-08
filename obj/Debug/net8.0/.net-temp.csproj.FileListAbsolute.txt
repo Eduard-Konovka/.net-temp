@@ -12,3 +12,4 @@ D:\GitHub\.net-temp\obj\Debug\net8.0\refint\.net-temp.dll
 D:\GitHub\.net-temp\obj\Debug\net8.0\.net-temp.pdb
 D:\GitHub\.net-temp\obj\Debug\net8.0\.net-temp.genruntimeconfig.cache
 D:\GitHub\.net-temp\obj\Debug\net8.0\ref\.net-temp.dll
+D:\GitHub\.net-temp\obj\Debug\net8.0\.net-temp.sourcelink.json
