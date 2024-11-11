@@ -1,22 +1,24 @@
 ﻿using System;
 
-int[] array1 = { 0, 1, 2 };
-int[] array2 = { 1, 2, 3, 4 , 5, 6, 7, 8, 9, 10};
+// Завдання № 1 ==============================================================
+int[] array1 = { 0, 1, 2, 3, 4 };
+int[] array2 = { 1, 2, 3, 4, 5 };
 
 int[] result1 = GetSumAndProduct(array1);
+int[] result2 = GetSumAndProduct(array2);
 
 int[] GetSumAndProduct(int[] arr) 
 {
     int sum = 0;
-    for (int i = 0; i < arr.Length - 1; i++)
-       {
-           sum = sum + arr[i];
-       }
-
     int product = 1;
-    for (int i = 1; i < arr.Length; i++)
+
+    for (int i = 0; i < arr.Length; ++i)
        {
-           product = product * arr[i];
+           sum += arr[i];
+       }
+    for (int i = 0; i < arr.Length; ++i)
+       {
+           product *= arr[i];
        }
 
     int[] res = { sum, product };
@@ -24,7 +26,16 @@ int[] GetSumAndProduct(int[] arr)
     return res;
 }
 
+Console.WriteLine(); 
+Console.WriteLine("==================== Завдання № 1 ====================");
+Console.Write("The result for array1: ");
 for (int i = 0; i < result1.Length; i++) Console.Write(result1[i] + " ");
+Console.WriteLine();
+Console.Write("The result for array2: ");
+for (int i = 0; i < result2.Length; i++) Console.Write(result2[i] + " ");
+Console.WriteLine();
+Console.WriteLine("======================================================");
+// ===========================================================================
  
 // public class Class1
 // {
