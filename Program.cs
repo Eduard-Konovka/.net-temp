@@ -12,8 +12,8 @@ public class Program
         Flat defaultflat = new Flat();
         Flat partFlat = new Flat(95.5, 4 );
         
-        Flat.PrintFlat( "== Full params ==", fullFlat);
-        Flat.PrintFlat( " Default  params ", defaultflat);
-        Flat.PrintFlat( "== Part params ==", partFlat);
+        Flat.PrintFlat( "Full params", fullFlat);
+        Flat.PrintFlat( "Default params", defaultflat);
+        Flat.PrintFlat( "Part params", partFlat);
     }
 }
